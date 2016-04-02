@@ -15,6 +15,7 @@ Get files from Github repository
 # How to use
 Include the PHP Class hashnest.php and feel free to communicate with the hashnest API.
 
+    require('hashnest.php');
     $hashnest = new hashnest('Username', 'API-KEY', 'API-SECRET');
 
 We will deliver a demo.php with lot of demo stuff.
@@ -25,11 +26,11 @@ You are able to use all official hashnest statements. Just call the API-Client w
 Official API Documentation: https://www.hashnest.com/hashnest_api
 
 - $hashnest->account();
- -- Query Account Info
+    - Query Account Info
 - $hashnest->currency_accounts();
- -- Check users account balance
+    - Check users account balance
 - $hashnest->hash_accounts();
- -- Check user's hash rate account balance
+    - Check user's hash rate account balance
 
 All Methods return a JSON decoded PHP Object.  
 
