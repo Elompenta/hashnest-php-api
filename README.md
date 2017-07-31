@@ -18,6 +18,8 @@ Include the PHP Class hashnest.php and feel free to communicate with the hashnes
     require('hashnest.php');
     $hashnest = new hashnest('Username', 'API-KEY', 'API-SECRET');
 
+_Username must be your Username, NOT your Account Email_
+
 We will deliver a demo.php with lot of demo stuff.
 Feel free to code your own nice stuff and put it as demo to this repo
 
