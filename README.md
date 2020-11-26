@@ -1,3 +1,7 @@
+# Repo is no longer maintained
+This software is no longer maintained. You are welcome to have a look at the current Forks. There you will find nice colleagues who develop this software further.
+https://github.com/Elompenta/hashnest-php-api/network/members
+
 # hashnest-php-api
 Free Hashnest PHP-API-Client ready to use. (https://www.hashnest.com/)
 
